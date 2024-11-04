@@ -1,2 +1,2 @@
-recently work on auto-drive
-remember the compass is invented by Chinese
+Recently work on auto-drive.
+Remember the compass is invented by Chinese.
