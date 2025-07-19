@@ -1,2 +1,1 @@
-Recently work on car app.
-Apk creation is available.
+These apk can be used in Android pad.
